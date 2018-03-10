@@ -1,19 +1,21 @@
 
-ikPaint Version 1.0.0 Beta
+KolourPaint Version 4.0.0 BETA (KDE 4.0.0 Release Frozen 2007-10-26)
+http://www.kolourpaint.org/
 
-Copyright (c) 2015-2018 Maikel Diaz (ariguanabosoft@gmail.com)
+Copyright (c) 2003-2007 Clarence Dang <dang@kde.org>
+
 
 For licensing and warranty information, read COPYING.
-For original README KolourPaint file read KREADME
-For original COPYING KolourPaint file read KCOPYING
+For known problems with this release of KolourPaint, read BUGS.
+For what changes have been made, read NEWS.
+For developer information, checkout branches/kolourpaint/control/.
+For general information, read this file (README):
 
 
-1. What is ikPaint?
+1. What is KolourPaint?
 =======================
 
-ikPaint is a (light?) modified version of KDE KolourPaint () compiled for macOS. ikPaint removes all KDE dependencies of KolourPaint and it is compiled using only Qt 5 libraries. Some features from the original software were excluded and few new options were added.
-
-Like KolourPaint, ikPaint is a free, easy-to-use paint program.
+KolourPaint is a free, easy-to-use paint program for KDE.
 
 It aims to be conceptually simple to understand; providing a level of
 functionality targeted towards the average user.  It's designed for daily
@@ -27,13 +29,13 @@ It's not an unusable and monolithic program where simple tasks like drawing
 lines become near impossible.  Nor is it so simple that it lacks essential
 features like Undo/Redo.
 
-ikPaint is opensource software written in C++ using only the Qt libraries.
+KolourPaint is opensource software written in C++ using the Qt and KDE
+libraries.
+
 
 2. Features
 ===========
 
-From KolourPaint
------------------
 * Undo/Redo Support (10-500 levels of history depending on memory usage)
 
 * Tools (single key shortcuts available for all tools)
@@ -68,25 +70,13 @@ From KolourPaint
 * Close-up Editing
   - Zoom (from 0.01x to 16x)
   - Grid
+  - Thumbnail
 
 * File Operations
   - Open/Save in all file formats provided by KImageIO
     (PNG, JPEG, BMP, ICO, PCX, TIFF,...) with preview
   - Print, Print Preview
   - Mail
-
-
-News in ikPaint
----------------
-* Image Effects
-  - Color to alpha
-
-Removed from KolourPaint
----------------------------
-* Close-up Editing
-  - Thumbnail
-
-* File Operations
   - Set as Wallpaper
 
 
@@ -96,11 +86,20 @@ Removed from KolourPaint
 Visit: http://www.kolourpaint.org/
 
 
-4. Support & Feedback
-====================
+4. Support
+==========
 
-Unfortunately I have enough time to provide a full support, but if you have any question, suggestion, bug report or even better you want to collaborate please contact me:
+Visit: http://www.kolourpaint.org/
 
-ariguanabosoft@gmail.com
+If you have any questions about compiling, installing or using KolourPaint,
+don't be afraid to contact us.  We try to support all versions of
+KolourPaint and even issues with 3rd party binary packages.
 
-Enjoy! :)
+
+5. Feedback
+===========
+
+Please send bug reports and feature requests to http://bugs.kde.org/.
+Don't hesitate to report bugs nor hesitate to send us your wishes -- it
+provides valuable feedback that will help to improve future versions of
+KolourPaint and you will not receive flames for reporting duplicates.

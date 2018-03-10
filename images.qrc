@@ -1,0 +1,54 @@
+<RCC>
+    <qresource prefix="/">
+        <file>doc/tool_brush.png</file>
+        <file>doc/tool_color_picker.png</file>
+        <file alias="doc/tool_color_eraser.png">doc/tool_color_washer.png</file>
+        <file>doc/tool_curve.png</file>
+        <file>doc/tool_ellipse.png</file>
+        <file>doc/tool_elliptical_selection.png</file>
+        <file>doc/tool_eraser.png</file>
+        <file>doc/tool_flood_fill.png</file>
+        <file>doc/tool_free_form_selection.png</file>
+        <file>doc/tool_line.png</file>
+        <file>doc/tool_pen.png</file>
+        <file>doc/tool_polygon.png</file>
+        <file>doc/tool_polyline.png</file>
+        <file>doc/tool_polystar.png</file>
+        <file>doc/tool_rectangle.png</file>
+        <file>doc/tool_rectangles.png</file>
+        <file>doc/tool_rect_selection.png</file>
+        <file>doc/tool_rounded_rectangle.png</file>
+        <file>doc/tool_selections.png</file>
+        <file>doc/tool_spraycan.png</file>
+        <file>doc/tool_text.png</file>
+        <file alias="edit-redo">doc/edit-redo.png</file>
+        <file alias="edit-undo">doc/edit-undo.png</file>
+        <file alias="document-new">doc/document-new.png</file>
+        <file alias="document-open">doc/document-open.png</file>
+        <file>doc/document-open-recent.png</file>
+        <file alias="document-save">doc/document-save.png</file>
+        <file alias="format-text-bold">doc/format-text-bold.png</file>
+        <file alias="format-text-italic">doc/format-text-italic.png</file>
+        <file alias="format-text-strikethrough">doc/format-text-strikethrough.png</file>
+        <file alias="format-text-underline">doc/format-text-underline.png</file>
+        <file alias="zoom-in">doc/zoom-in.png</file>
+        <file alias="zoom-out">doc/zoom-out.png</file>
+        <file alias="zoom-select">doc/zoom-select.png</file>
+        <file alias="option_opaque">doc/option_opaque.png</file>
+        <file alias="option_transparent">doc/option_transparent.png</file>
+        <file alias="tool_spraycan_9x9">doc/tool_spraycan_9x9.png</file>
+        <file alias="tool_spraycan_17x17">doc/tool_spraycan_17x17.png</file>
+        <file alias="tool_spraycan_29x29">doc/tool_spraycan_29x29.png</file>
+        <file alias="image_rotate_anticlockwise">doc/object-rotate-left.png</file>
+        <file alias="image_rotate_clockwise">doc/object-rotate-right.png</file>
+        <file alias="resize">doc/resize.png</file>
+        <file alias="scale">doc/scale.png</file>
+        <file alias="smooth_scale">doc/smooth_scale.png</file>
+        <file alias="image_skew_horizontal">doc/image_skew_horizontal.png</file>
+        <file alias="image_skew_vertical">doc/image_skew_vertical.png</file>
+        <file alias="color_transparent_26x26">doc/color_transparent_26x26.png</file>
+        <file alias="colorbutton_swap_16x16">doc/colorbutton_swap_16x16.png</file>
+        <file alias="winicon">doc/appiconmini.png</file>
+        <file alias="appicon">doc/appicon.png</file>
+    </qresource>
+</RCC>
