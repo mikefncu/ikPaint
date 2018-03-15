@@ -12,11 +12,7 @@ For original COPYING KolourPaint file read KCOPYING
 What is ikPaint?
 ================
 
-<<<<<<< HEAD
-ikPaint is a (light?) modified version of KDE KolourPaint compiled for macOS. ikPaint removes all KDE dependencies of KolourPaint and it is compiled using only Qt 5 libraries. Some features from the original software were excluded and few new options were added.
-=======
 ikPaint is a (light?) modified version of KDE KolourPaint (http://www.kolourpaint.org) compiled for macOS. ikPaint removes all KDE dependencies of KolourPaint and it is compiled using only Qt 5 libraries. Some features from the original software were excluded and few new options were added.
->>>>>>> 39225aca0304fcb8693b62a29b3b798048d7471b
 
 Like KolourPaint, ikPaint is a free, easy-to-use paint program.
 
@@ -104,11 +100,8 @@ Visit: https://github.com/mikefncu/ikPaint
 Support & Feedback
 ==================
 
-<<<<<<< HEAD
 Unfortunately I do not have enough time to provide a full support, but if you have any question, suggestion, bug report or even better you want to collaborate please contact me:
-=======
-Unfortunately I have enough time to provide a full support, but if you have any question, suggestion, bug report or you want to collaborate please contact me:
->>>>>>> 39225aca0304fcb8693b62a29b3b798048d7471b
+
 
 ariguanabosoft@gmail.com
 
