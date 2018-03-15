@@ -1,5 +1,6 @@
 
 ikPaint Version 1.0.0 Beta
+==========================
 
 Copyright (c) 2015-2018 Maikel Diaz (ariguanabosoft@gmail.com)
 
@@ -8,10 +9,14 @@ For original README KolourPaint file read KREADME
 For original COPYING KolourPaint file read KCOPYING
 
 
-1. What is ikPaint?
-=======================
+What is ikPaint?
+================
 
+<<<<<<< HEAD
 ikPaint is a (light?) modified version of KDE KolourPaint compiled for macOS. ikPaint removes all KDE dependencies of KolourPaint and it is compiled using only Qt 5 libraries. Some features from the original software were excluded and few new options were added.
+=======
+ikPaint is a (light?) modified version of KDE KolourPaint (http://www.kolourpaint.org) compiled for macOS. ikPaint removes all KDE dependencies of KolourPaint and it is compiled using only Qt 5 libraries. Some features from the original software were excluded and few new options were added.
+>>>>>>> 39225aca0304fcb8693b62a29b3b798048d7471b
 
 Like KolourPaint, ikPaint is a free, easy-to-use paint program.
 
@@ -29,7 +34,7 @@ features like Undo/Redo.
 
 ikPaint is opensource software written in C++ using only the Qt libraries.
 
-2. Features
+Features
 ===========
 
 From KolourPaint
@@ -76,13 +81,13 @@ From KolourPaint
   - Mail
 
 
-News in ikPaint
+News with ikPaint
 ---------------
 * Image Effects
   - Color to alpha
 
 Removed from KolourPaint
----------------------------
+------------------------
 * Close-up Editing
   - Thumbnail
 
@@ -90,16 +95,20 @@ Removed from KolourPaint
   - Set as Wallpaper
 
 
-3. Updates & More Information
-=============================
+Updates & More Information
+==========================
 
-Visit: http://www.kolourpaint.org/
+Visit: https://github.com/mikefncu/ikPaint
 
 
-4. Support & Feedback
-====================
+Support & Feedback
+==================
 
+<<<<<<< HEAD
 Unfortunately I do not have enough time to provide a full support, but if you have any question, suggestion, bug report or even better you want to collaborate please contact me:
+=======
+Unfortunately I have enough time to provide a full support, but if you have any question, suggestion, bug report or you want to collaborate please contact me:
+>>>>>>> 39225aca0304fcb8693b62a29b3b798048d7471b
 
 ariguanabosoft@gmail.com
 
